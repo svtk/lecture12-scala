@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="akka-2.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/akka/akka-actor-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/akka/config-0.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/akka/akka-actor-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
